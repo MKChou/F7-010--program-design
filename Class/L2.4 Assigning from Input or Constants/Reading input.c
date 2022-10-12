@@ -5,5 +5,5 @@ int main(){
     printf("%d %d\n",x, y);
     printf("%u %u\n",&x, &y); 
     printf("%x %x\n",&x, &y); //hexadecimal
-    printf("%p %p\n",&x, &y);
+    printf("%p %p\n",&x, &y); //pointer
 }
