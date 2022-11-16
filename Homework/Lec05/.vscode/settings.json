@@ -4,6 +4,10 @@
         "chrono": "c",
         "limits": "c",
         "ratio": "c",
-        "algorithm": "c"
+        "algorithm": "c",
+        "__bit_reference": "c",
+        "bitset": "c",
+        "unordered_map": "c",
+        "cmath": "c"
     }
 }
